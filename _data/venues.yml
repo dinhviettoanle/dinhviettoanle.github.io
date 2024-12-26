@@ -1,9 +1,8 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Musicology":
+  color: "#b8815c"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"Symbolic<br>Music Generation":
   color: "#009f36"
+
+"Symbolic<br>Music Analysis":
+  color: "#6899a6"
