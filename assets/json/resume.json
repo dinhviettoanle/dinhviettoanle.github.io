@@ -3,196 +3,158 @@
     "name": "Dinh-Viet-Toan Le",
     "image": "",
     "email": "dinhviettoan.le@univ-lille.fr",
-    "url": "https://dinhviettoanle.github.io",
-    "summary": "PhD Student in Symbolic Music Information Retrieval at Université de Lille",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "website": "<a href='https://dinhviettoanle.github.io'>https://dinhviettoanle.github.io</a>"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "CRIStAL, Université de Lille",
+      "location": "Lille, France",
+      "url": "https://www.cristal.univ-lille.fr/",
+      "area": "Natural Language Processing Applied to Symbolic Music",
+      "studyType": "PhD in Computer Science",
+      "startDate": "2022",
+      "endDate": "2025",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Music Information Retrieval", "Symbolic Music Analysis"]
+    },
+    {
+      "institution": "IRCAM, Sorbonne Université",
+      "location": "Paris, France",
+      "url": "http://www.atiam.ircam.fr/",
+      "area": "Acoustics, Signal Processing, Computer Science Applied to Music",
+      "studyType": "Master's Degree (MSc)",
+      "startDate": "2020",
+      "endDate": "2021",
+      "score": "10",
+      "courses": ["Machine learning applied to music", "Signal processing for music information retrieval", "Musical instruments acoustics"]
+    },
+    {
+      "institution": "ISAE-SUPAERO (Institut Supérieur de l'Aéronautique et de l'Espace)",
+      "location": "Toulouse, France",
+      "url": "https://www.isae-supaero.fr/",
+      "area": "Aerospace Engineering",
+      "studyType": "Engineering Degree (MSc)",
+      "startDate": "2018",
+      "endDate": "2022",
+      "score": "10",
+      "courses": ["Computer science and Data science", "On-board systems", "Mechanics", "Signal processing", "Applied mathematics"]
+    },
+    {
+      "institution": "Lycée Marcelin Berthelot",
+      "location": "Saint-Maur-des-Fossés,<br>France",
+      "url": "https://lycee-berthelot.fr/",
+      "area": "Mathematics / Physics",
+      "studyType": "Preparatory classes MPSI / MP*",
+      "startDate": "2016",
+      "endDate": "2018",
+      "score": "10",
+      "courses": ["Mathematics", "Physics & Chemistry", "Computer Science"]
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "National Taiwan University, Taipei, Taiwan",
+      "position": "Visiting Research Student",
+      "url": "https://www.ntu.edu.tw",
+      "startDate": "2024-04",
+      "endDate": "2024-07",
+      "summary": "Multi-track music generation",
+      "highlights": ["Supervisor: <a href='https://affige.github.io/'>Yi-Hsuan Yang</a>"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Université de Lille, France",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://www.fil.univ-lille.fr",
+      "startDate": "2023-09",
+      "endDate": "2024-12",
+      "summary": "Teachings in Compute Science (Licence 2)",
+      "highlights": ["Regular Languages and Automata", "Web programming"]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Peachnote GmbH, Munich, Germany",
+      "position": "Software Development Internship in Computational Music Analysis",
+      "url": "https://www.peachnote.de/",
+      "startDate": "2022-04",
+      "endDate": "2022-09",
+      "summary": "Full stack development of a music theory app",
+      "highlights": []
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "CRIStAL, Université de Lille, France",
+      "position": "Research Internship in Computational Music Analysis",
+      "url": "https://algomus.fr/",
+      "startDate": "2021-03",
+      "endDate": "2021-07",
+      "summary": "Analysis of orchestral texture in symbolic music",
+      "highlights": ["Publication at <a href='https://dl.acm.org/doi/10.1145/3543882.3543884'>DLfM 2022</a>"]
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "<b>Code</b>: Python, MATLAB, C, Java",
+        "<b>Machine Learning</b>: Pytorch, Sklearn, HuggingFace Transformers",
+        "<b>Web technology</b>: Django, React",
+        "<b>On-board systems</b>: Arduino, Raspberry Pi"
+      ]
+    },
+    {
+      "name": "IT",
+      "level": "Master",
+      "icon": "fa-solid fa-computer",
+      "keywords": [
+        "<b>Graphics</b>: Adobe CC (Ps, Pr, Ai, Ae, Id)",
+        "<b>Tools</b>: Git, Jupyter, GCloud, LaTeX"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
+      "fluency": "TOEIC (980/990)<br>TOEFL iBT (106/120)",
+      "icon": ""
+    },
+    {
+      "language": "Vietnamese",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Beginner",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Music",
+      "icon": "fa-solid fa-music",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "<b>Computer-assisted music</b><br>Composition of animated films soundtracks<br><i>Tools:</i> Steinberg Cubase, NI Kontakt<br><i>Score engraving:</i> Musescore, Sibelius",
+        "<b>Guitar, Piano, Violin</b>",
+        "<b>CHAM classes</b> (music-oriented classes)<br>Trumpet and music theory classes",
+        "<b>Composition and arrangement</b> (SATB choirs)",
+        "<b>Choir conducting</b>"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Scouting",
+      "icon": "fa-solid fa-person-hiking",
+      "keywords": [
+        "<b>Scouts et Guides de France</b>",
+        "Scout leader for 8-11 year-old kids",
+        "European First-Aid Certificate"
+      ]
     }
   ]
 }
