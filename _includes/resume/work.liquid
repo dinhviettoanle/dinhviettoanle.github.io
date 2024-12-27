@@ -29,6 +29,26 @@
                   </td>
                 </tr>
               {% endif %}
+              {% if content.logo %}
+                <tr>
+                  <td>
+                      {% if content.logo contains '://' %}
+                        <img class="preview z-depth-1 rounded" src="{{ entry.logo }}">
+                      {% else %}
+                        {% assign entry_path = content.logo | prepend: '/assets/img/cv/' %}
+                        {%
+                          include figure.liquid
+                          loading="eager"
+                          path=entry_path
+                          sizes = "200px"
+                          class="preview rounded"
+                          zoomable=false
+                          alt=content.logo
+                        %}
+                      {% endif %}
+                  </td>
+                </tr>
+              {% endif %}
             </tbody>
           </table>
         </div>

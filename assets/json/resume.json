@@ -7,7 +7,7 @@
   },
   "education": [
     {
-      "institution": "CRIStAL, Université de Lille",
+      "institution": "Algomus / MAGNET teams, CRIStAL, Université de Lille",
       "location": "Lille, France",
       "url": "https://www.cristal.univ-lille.fr/",
       "area": "Natural Language Processing Applied to Symbolic Music",
@@ -15,6 +15,7 @@
       "startDate": "2022",
       "endDate": "2025",
       "score": "10",
+      "logo": "logoCRIStAL.png",
       "courses": ["Music Information Retrieval", "Symbolic Music Analysis"]
     },
     {
@@ -22,21 +23,23 @@
       "location": "Paris, France",
       "url": "http://www.atiam.ircam.fr/",
       "area": "Acoustics, Signal Processing, Computer Science Applied to Music",
-      "studyType": "Master's Degree (MSc)",
+      "studyType": "ATIAM Master's Degree (MSc)",
       "startDate": "2020",
       "endDate": "2021",
       "score": "10",
+      "logo": "atiam_logo.png",
       "courses": ["Machine learning applied to music", "Signal processing for music information retrieval", "Musical instruments acoustics"]
     },
     {
-      "institution": "ISAE-SUPAERO (Institut Supérieur de l'Aéronautique et de l'Espace)",
+      "institution": "Institut Supérieur de l'Aéronautique et de l'Espace",
       "location": "Toulouse, France",
       "url": "https://www.isae-supaero.fr/",
       "area": "Aerospace Engineering",
-      "studyType": "Engineering Degree (MSc)",
+      "studyType": "ISAE-SUPAERO Engineering Degree (MSc)",
       "startDate": "2018",
       "endDate": "2022",
       "score": "10",
+      "logo": "isaesupaero_logo.png",
       "courses": [
         "Computer science and <a href='https://supaerodatascience.github.io/'>Data science</a>",
         "On-board systems",
@@ -59,43 +62,56 @@
   ],
   "work": [
     {
-      "name": "National Taiwan University, Taipei, Taiwan",
+      "name": "National Taiwan University",
+      "location": "Taipei, Taiwan",
       "position": "Visiting Research Student",
       "url": "https://www.ntu.edu.tw",
       "startDate": "2024-04",
       "endDate": "2024-07",
       "summary": "Multi-track music generation",
-      "highlights": ["Supervisor: <a href='https://affige.github.io/'>Yi-Hsuan Yang</a>"]
+      "logo": "ntu_logo.png",
+      "highlights": [
+        "Supervisor: <a href='https://affige.github.io/'>Yi-Hsuan Yang</a>", 
+        "Publication in progress: <a href='https://arxiv.org/abs/2409.11753'>preprint</a>",
+        "Mobility scholarship granted by <a href='https://guide-aides.hautsdefrance.fr/dispositif997'>Région Hauts-de-France</a>" 
+      ]
     },
     {
-      "name": "Université de Lille, France",
+      "name": "Université de Lille",
+      "location": "Lille, France",
       "position": "Graduate Teaching Assistant",
       "url": "https://www.fil.univ-lille.fr",
       "startDate": "2023-09",
       "endDate": "2024-12",
       "summary": "Teachings in Compute Science (Licence 2)",
+      "logo": "ulille_logo.png",
       "highlights": ["Regular Languages and Automata", "Web programming", "See <a href='/teaching/'>teaching</a>"]
     },
     {
-      "name": "Peachnote GmbH, Munich, Germany",
+      "name": "Peachnote GmbH",
+      "location": "Remote",
       "position": "Software Development Internship in Computational Music Analysis",
       "url": "https://www.peachnote.de/",
       "startDate": "2022-04",
       "endDate": "2022-09",
+      "logo": "peachnote_logo.png",
       "summary": "Full stack development of a music theory app",
       "highlights": []
     },
     {
-      "name": "CRIStAL, Université de Lille, France",
+      "name": "Algomus Team, CRIStAL, Université de Lille",
+      "location": "Lille, France",
       "position": "Research Internship in Computational Music Analysis",
       "url": "https://algomus.fr/",
       "startDate": "2021-03",
       "endDate": "2021-07",
       "summary": "Analysis of orchestral texture in symbolic music",
+      "logo": "logoCRIStAL.png",
       "highlights": ["Publication at <a href='https://dl.acm.org/doi/10.1145/3543882.3543884'>DLfM 2022</a>"]
     },
     {
-      "name": "Centre Aéronautique de Beynes, France",
+      "name": "Centre Aéronautique de Beynes",
+      "location": "Beynes, France",
       "position": "Manual Work Internship",
       "url": "https://www.cab.asso.fr/",
       "startDate": "2019-07",
