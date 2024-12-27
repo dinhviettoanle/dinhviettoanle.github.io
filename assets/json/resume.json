@@ -89,8 +89,7 @@
       "highlights": ["Publication at <a href='https://dl.acm.org/doi/10.1145/3543882.3543884'>DLfM 2022</a>"]
     }
   ],
-  "publications": [
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Programming",
@@ -107,10 +106,7 @@
       "name": "IT",
       "level": "Master",
       "icon": "fa-solid fa-computer",
-      "keywords": [
-        "<b>Graphics</b>: Adobe CC (Ps, Pr, Ai, Ae, Id)",
-        "<b>Tools</b>: Git, Jupyter, GCloud, LaTeX"
-      ]
+      "keywords": ["<b>Graphics</b>: Adobe CC (Ps, Pr, Ai, Ae, Id)", "<b>Tools</b>: Git, Jupyter, GCloud, LaTeX"]
     }
   ],
   "languages": [
@@ -150,11 +146,7 @@
     {
       "name": "Scouting",
       "icon": "fa-solid fa-person-hiking",
-      "keywords": [
-        "<b>Scouts et Guides de France</b>",
-        "Scout leader for 8-11 year-old kids",
-        "European First-Aid Certificate"
-      ]
+      "keywords": ["<b>Scouts et Guides de France</b>", "Scout leader for 8-11 year-old kids", "European First-Aid Certificate"]
     }
   ]
 }

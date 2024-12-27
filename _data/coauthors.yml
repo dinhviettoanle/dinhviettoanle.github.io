@@ -13,7 +13,7 @@
 "yang":
   - firstname: ["Yi-Hsuan Yang", "Yi-Hsuan", "Yang"]
     url: https://affige.github.io/
-  
+
 "giraud":
   - firstname: ["Mathieu Giraud", "Mathieu", "Giraud"]
     url: https://cnrs.magiraud.org/
@@ -21,4 +21,3 @@
 "leve":
   - firstname: ["Florence Levé", "Florence", "Levé"]
     url: https://home.mis.u-picardie.fr/~leve/
-  
