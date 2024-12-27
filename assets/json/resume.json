@@ -37,7 +37,13 @@
       "startDate": "2018",
       "endDate": "2022",
       "score": "10",
-      "courses": ["Computer science and Data science", "On-board systems", "Mechanics", "Signal processing", "Applied mathematics"]
+      "courses": [
+        "Computer science and <a href='https://supaerodatascience.github.io/'>Data science</a>",
+        "On-board systems",
+        "Mechanics",
+        "Signal processing",
+        "Applied mathematics"
+      ]
     },
     {
       "institution": "Lycée Marcelin Berthelot",
@@ -68,7 +74,7 @@
       "startDate": "2023-09",
       "endDate": "2024-12",
       "summary": "Teachings in Compute Science (Licence 2)",
-      "highlights": ["Regular Languages and Automata", "Web programming"]
+      "highlights": ["Regular Languages and Automata", "Web programming", "See <a href='/teaching/'>teaching</a>"]
     },
     {
       "name": "Peachnote GmbH, Munich, Germany",
@@ -87,6 +93,15 @@
       "endDate": "2021-07",
       "summary": "Analysis of orchestral texture in symbolic music",
       "highlights": ["Publication at <a href='https://dl.acm.org/doi/10.1145/3543882.3543884'>DLfM 2022</a>"]
+    },
+    {
+      "name": "Centre Aéronautique de Beynes, France",
+      "position": "Manual Work Internship",
+      "url": "https://www.cab.asso.fr/",
+      "startDate": "2019-07",
+      "endDate": "2019-08",
+      "summary": "Ground duties in a glider club",
+      "highlights": []
     }
   ],
   "publications": [],
