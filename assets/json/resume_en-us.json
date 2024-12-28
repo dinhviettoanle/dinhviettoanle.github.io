@@ -83,9 +83,9 @@
       "url": "https://www.fil.univ-lille.fr",
       "startDate": "2023-09",
       "endDate": "2024-12",
-      "summary": "Teachings in Compute Science (Licence 2)",
+      "summary": "Teachings in Computer Science (Licence 2)",
       "logo": "ulille_logo.png",
-      "highlights": ["Regular Languages and Automata", "Web programming", "See <a href='/teaching/'>teaching</a>"]
+      "highlights": ["See <a href='/teaching/'>teaching</a>"]
     },
     {
       "name": "Peachnote GmbH",
@@ -128,8 +128,9 @@
       "icon": "fa-solid fa-code",
       "keywords": [
         "<b>Code</b>: Python, MATLAB, C, Java",
-        "<b>Machine Learning</b>: Pytorch, Sklearn, HuggingFace Transformers",
+        "<b>Machine learning</b>: Pytorch, Sklearn, HuggingFace Transformers",
         "<b>Web technology</b>: Django, React",
+        "<b>Database</b>: PostgreSQL, ElasticSearch",
         "<b>On-board systems</b>: Arduino, Raspberry Pi"
       ]
     },
@@ -137,7 +138,7 @@
       "name": "IT",
       "level": "Master",
       "icon": "fa-solid fa-computer",
-      "keywords": ["<b>Graphics</b>: Adobe CC (Ps, Pr, Ai, Ae, Id)", "<b>Tools</b>: Git, Jupyter, GCloud, LaTeX"]
+      "keywords": ["<b>Graphics</b>: Adobe CC (Ps, Pr, Ai, Ae, Id)", "<b>Deployment</b>: Docker, GCloud", "<b>Tools</b>: Git, Jupyter, LaTeX"]
     }
   ],
   "languages": [
@@ -167,7 +168,7 @@
       "name": "Music",
       "icon": "fa-solid fa-music",
       "keywords": [
-        "<b>Computer-assisted music</b><br>Composition of animated films soundtracks<br><i>Tools:</i> Steinberg Cubase, NI Kontakt<br><i>Score engraving:</i> Musescore, Sibelius",
+        "<b>Computer-assisted music</b><br>Composition of animated films soundtracks<br><i>Tools:</i> Steinberg Cubase, NI Kontakt<br><i>Score engraving:</i> Musescore, Sibelius, Lilypond",
         "<b>Guitar, Piano, Violin</b>",
         "<b>CHAM classes</b> (music-oriented classes)<br>Trumpet and music theory classes",
         "<b>Composition and arrangement</b> (SATB choirs)",
