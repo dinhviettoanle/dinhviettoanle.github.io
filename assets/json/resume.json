@@ -71,9 +71,9 @@
       "summary": "Multi-track music generation",
       "logo": "ntu_logo.png",
       "highlights": [
-        "Supervisor: <a href='https://affige.github.io/'>Yi-Hsuan Yang</a>",
+        "Supervisor: <a href='https://affige.github.io/'>Yi-Hsuan Yang</a>", 
         "Publication in progress: <a href='https://arxiv.org/abs/2409.11753'>preprint</a>",
-        "Mobility scholarship granted by <a href='https://guide-aides.hautsdefrance.fr/dispositif997'>Région Hauts-de-France</a>"
+        "Mobility scholarship granted by <a href='https://guide-aides.hautsdefrance.fr/dispositif997'>Région Hauts-de-France</a>" 
       ]
     },
     {
@@ -99,7 +99,7 @@
       "highlights": []
     },
     {
-      "name": "Algomus team, CRIStAL, Université de Lille",
+      "name": "Algomus Team, CRIStAL, Université de Lille",
       "location": "Lille, France",
       "position": "Research Internship in Computational Music Analysis",
       "url": "https://algomus.fr/",
