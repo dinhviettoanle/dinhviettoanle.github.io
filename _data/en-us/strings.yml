@@ -21,6 +21,7 @@ cv:
   countryCode: Country code
   courses: Courses
   date: Date
+  demo: Demo
   education: Education
   email: Email
   endDate: End date
