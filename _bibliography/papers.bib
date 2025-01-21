@@ -18,7 +18,7 @@
     pages = "69--74",
     abstract = "Byte-Pair Encoding (BPE) is an algorithm commonly used in Natural Language Processing to build a vocabulary of subwords, which has been recently applied to symbolic music. Given that symbolic music can differ significantly from text, particularly with polyphony, we investigate how BPE behaves with different types of musical content. This study provides a qualitative analysis of BPE`s behavior across various instrumentations and evaluates its impact on a musical phrase segmentation task for both monophonic and polyphonic music. Our findings show that the BPE training process is highly dependent on the instrumentation and that BPE {\textquotedblleft}supertokens{\textquotedblright} succeed in capturing abstract musical content. In a musical phrase segmentation task, BPE notably improves performance in a polyphonic setting, but enhances performance in monophonic tunes only within a specific range of BPE merges.",
     abbr        = {Symbolic<br>Music Analysis},
-    pdf         = {https://aclanthology.org/2024.nlp4musa-1.12/},
+    pdf         = {https://aclanthology.org/2024.nlp4musa-1.12.pdf},
     code        = {https://github.com/dinhviettoanle/musicbpe-mono-poly},
     preview     = {bpe.png}
 }
@@ -32,8 +32,10 @@
   month       = Mar,
   booktitle   = {Workshop Artificial Intelligence for Music at AAAI},
   location    = {Philadelphia, United States},
+  abstract    = {Symbolic music analysis tasks are often performed by models originally developed for Natural Language Processing, such as Transformers. Such models require the input data to be represented as sequences, which is achieved through a process of tokenization. Tokenization strategies for symbolic music often rely on absolute MIDI values to represent pitch information. However, music research largely promotes the benefit of higher-level representations such as melodic contour and harmonic relations for which pitch intervals turn out to be more expressive than absolute pitches. In this work, we introduce a general framework for building interval-based tokenizations. By evaluating these tokenizations on three music analysis tasks, we show that such interval-based tokenizations improve model performances and facilitate their explainability},
   abbr        = {Symbolic<br>Music Analysis},
-  preview     = {intervalization.png}
+  preview     = {intervalization.png},
+  pdf         = {https://hal.science/hal-04877659v1/document}
 }
 
 @misc{le2024meteor,
@@ -45,8 +47,9 @@
   eprint        = {2409.11753},
   archiveprefix = {arXiv},
   primaryclass  = {cs.SD},
+  abstract      = {Western music is often characterized by a homophonic texture, in which the musical content can be organized into a melody and an accompaniment. In orchestral music, in particular, the composer can select specific characteristics for each instrument’s part within the accompaniment, while also needing to adapt the melody to suit the capabilities of the instruments performing it. In this work, we propose METEOR, a model for Melody-aware Texture-controllable Orchestral music generation. This model performs symbolic multi-track music style transfer with a focus on melodic fidelity. We allow bar- and track-level controllability of the accompaniment with various textural attributes while keeping a homophonic texture. We show that the model can achieve controllability performances similar to strong baselines while greatly improve melodic fidelity.},
   abbr          = {Symbolic<br>Music Generation},
-  pdf           = {https://arxiv.org/abs/2409.11753},
+  pdf           = {https://arxiv.org/pdf/2409.11753},
   code          = {https://github.com/dinhviettoanle/meteor},
   demo          = {https://dinhviettoanle.github.io/meteor/},
   preview       = {meteor.png}
@@ -89,7 +92,7 @@ misc{le2024natural,
   numpages    = {},
   keywords    = {},
   abbr        = {Survey},
-  pdf         = {https://arxiv.org/abs/2402.17467},
+  pdf         = {https://arxiv.org/pdf/2402.17467},
   code        = {https://github.com/dinhviettoanle/survey-music-nlp},
   preview     = {survey.png},
   note        = {[Accepted]}
