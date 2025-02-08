@@ -16,6 +16,7 @@
       "endDate": "2025",
       "score": "10",
       "logo": "logoCRIStAL.png",
+      "logo_width": "120%",
       "courses": ["Informatique musicales", "Analyse automatique de partitions"]
     },
     {
@@ -56,6 +57,8 @@
       "studyType": "Classes Préparatoires aux Grandes Écoles MPSI / MP*",
       "startDate": "2016",
       "endDate": "2018",
+      "logo": "lmb_logo.png",
+      "logo_width": "80%",
       "score": "10",
       "courses": ["Mathématiques", "Physique-Chimie", "Informatique"]
     }
@@ -116,6 +119,8 @@
       "url": "https://www.cab.asso.fr/",
       "startDate": "2019-07",
       "endDate": "2019-08",
+      "logo": "cab_logo.png",
+      "logo_width": "70%",
       "summary": "Tâches au sol dans un club de planeurs",
       "highlights": []
     }
