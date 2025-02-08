@@ -44,6 +44,14 @@ body.sticky-bottom-footer {
  * Publications
  ******************************************************************************/
 
+.conf_link {
+  color: black;
+  &:hover {
+    color:black;
+  }
+}
+
+
 // TODO: redefine publications layout.
 
 /*****************************************************************************

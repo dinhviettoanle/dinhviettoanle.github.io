@@ -151,7 +151,11 @@
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+      {% if entry.conf_web %}
+        {% capture entrytype %}<em>In <a href="{{ entry.conf_web }}" class="conf_link">{{ entry.booktitle }}</a></em>{% endcapture %}
+      {% else %}
+        {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+      {% endif %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
     {% else %}
