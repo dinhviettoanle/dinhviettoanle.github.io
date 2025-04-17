@@ -28,7 +28,8 @@
       "startDate": "2020",
       "endDate": "2021",
       "score": "10",
-      "logo": "atiam_logo.png",
+      "logo": "ircam_logo.png",
+      "logo_width": "120%",
       "courses": ["Machine learning applied to music", "Signal processing for music information retrieval", "Musical instruments acoustics"]
     },
     {

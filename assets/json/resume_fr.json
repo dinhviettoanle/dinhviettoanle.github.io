@@ -28,7 +28,8 @@
       "startDate": "2020",
       "endDate": "2021",
       "score": "10",
-      "logo": "atiam_logo.png",
+      "logo": "ircam_logo.png",
+      "logo_width": "120%",
       "courses": ["Apprentissage machine appliqué à la musique", "Traitement du signal musical", "Acoustique des instruments de musique"]
     },
     {
