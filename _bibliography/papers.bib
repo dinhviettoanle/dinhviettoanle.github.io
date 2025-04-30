@@ -40,7 +40,7 @@
   conf_web    = {https://ai4musicians.org/2025aaai.html}
 }
 
-@misc{le2024meteor,
+misc{le2024meteor,
   bibtex_show   = {true},
   title         = {METEOR: Melody-aware Texture-controllable Symbolic Orchestral Music Generation},
   author        = {Dinh-Viet-Toan Le and Yi-Hsuan Yang},
@@ -56,6 +56,28 @@
   demo          = {https://dinhviettoanle.github.io/meteor/},
   preview       = {meteor.png}
 }
+
+@inproceedings{le2025meteor,
+  bibtex_show = {true},
+  title       = {{METEOR}: Melody-aware Texture-controllable Symbolic Music Re-Orchestration via Transformer VAE},
+  author      = {Dinh-Viet-Toan Le and Yi-Hsuan Yang},
+  booktitle   = {Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI), Special Track on AI, Arts and Creativity},
+  publisher   = {International Joint Conferences on Artificial Intelligence Organization},
+  pages       = {},
+  year        = {2025},
+  month       = aug,
+  location    = {Montreal, Canada},
+  url         = {https://arxiv.org/abs/2409.11753},
+  abstract    = {Re-orchestration is the process of adapting a music piece for a different set of instruments. By altering the original instrumentation, the orchestrator often modifies the musical texture while preserving a recognizable melodic line and ensures that each part is playable within the technical and expressive capabilities of the chosen instruments. In this work, we propose METEOR, a model for generating Melody-aware Texture-controllable re-Orchestration with a Transformer-based variational auto-encoder (VAE). This model performs symbolic instrumental and textural music style transfers with a focus on melodic fidelity and controllability. We allow bar- and track-level controllability of the accompaniment with various textural attributes while keeping a homophonic texture. With both subjective and objective evaluations, we show that our model outperforms style transfer models on a re-orchestration task in terms of generation quality and controllability. Moreover, it can be adapted for a lead sheet orchestration task as a zero-shot learning model, achieving performance comparable to a model specifically trained for this task.},
+  abbr        = {Symbolic<br>Music Generation},
+  pdf         = {https://arxiv.org/pdf/2409.11753},
+  code        = {https://github.com/dinhviettoanle/meteor},
+  demo        = {https://dinhviettoanle.github.io/meteor/},
+  preview     = {meteor.png},
+  conf_web    = {https://2025.ijcai.org/},
+  note        = {[Accepted for publication]}
+}
+
 
 
 misc{le2024natural,
@@ -114,7 +136,7 @@ article{le2025natural,
   numpages    = {40},
   keywords    = {Music information retrieval, natural language processing, symbolic music, music generation, music analysis, deep learning},
   abbr        = {Survey},
-  pdf         = {https://arxiv.org/pdf/2402.17467},
+  pdf         = {https://dl.acm.org/doi/pdf/10.1145/3714457},
   code        = {https://github.com/dinhviettoanle/survey-music-nlp},
   preview     = {survey.png}
 }
@@ -146,20 +168,20 @@ article{le2025natural,
 }
 
 @article{bigo2024langage,
-  bibtex_show  = {true},
-  title        = {{Le langage des partitions musicales face {\`a} l'intelligence artificielle}},
-  author       = {Bigo, Louis and Keller, Mikaela and Le, Dinh-Viet-Toan},
-  year         = 2024,
-  month        = nov,
-  journal      = {Culture et recherche},
-  pages        = {34--35},
-  publisher    = {{Paris : Minist{\`e}re de la Culture et de la Communication}},
-  url          = {https://hal.science/hal-04909478},
-  abstract     = {Dans le domaine de l'informatique musicale, l'analyse et la génération automatique de partitions font l'objet de multiples recherches, en grande partie inspirées par des algorithmes d'Intelligence artificielle (IA) conçus à l'origine pour le traitement de contenus textuels. Le projet Music NLP, collaboration entre le Studio de création et de recherche en informatique et musiques expérimentales (SCRIME) à l'Université de Bordeaux, l'Institut national de recherche en sciences et technologies du numérique (INRIA) et le Centre de recherche en informatique signal et automatique de Lille (CRIStAL) à l'Université de Lille, mène une réflexion sur ce détournement d'outils, ses limites techniques et la manière dont il nous interroge à un plus haut niveau sur le parallèle entre musique et langage naturel. },
-  keywords     = {Intelligence artificielle ; partitions musicales ; analyse musicale ; composition musicale ; langage naturel},
-  hal_id       = {hal-04909478},
-  hal_version  = {v1},
-  abbr         = {General public},
-  pdf          = {https://hal.science/hal-04909478/document},
-  preview      = {culture_recherche.png}
+  bibtex_show = {true},
+  title       = {Le langage des partitions musicales face {\`a} l'intelligence artificielle},
+  author      = {Bigo, Louis and Keller, Mikaela and Le, Dinh-Viet-Toan},
+  year        = 2024,
+  month       = nov,
+  journal     = {Culture et recherche},
+  pages       = {34--35},
+  publisher   = {Paris : Minist{\`e}re de la Culture et de la Communication},
+  url         = {https://hal.science/hal-04909478},
+  abstract    = {Dans le domaine de l'informatique musicale, l'analyse et la génération automatique de partitions font l'objet de multiples recherches, en grande partie inspirées par des algorithmes d'Intelligence artificielle (IA) conçus à l'origine pour le traitement de contenus textuels. Le projet Music NLP, collaboration entre le Studio de création et de recherche en informatique et musiques expérimentales (SCRIME) à l'Université de Bordeaux, l'Institut national de recherche en sciences et technologies du numérique (INRIA) et le Centre de recherche en informatique signal et automatique de Lille (CRIStAL) à l'Université de Lille, mène une réflexion sur ce détournement d'outils, ses limites techniques et la manière dont il nous interroge à un plus haut niveau sur le parallèle entre musique et langage naturel. },
+  keywords    = {Intelligence artificielle ; partitions musicales ; analyse musicale ; composition musicale ; langage naturel},
+  hal_id      = {hal-04909478},
+  hal_version = {v1},
+  abbr        = {General public},
+  pdf         = {https://hal.science/hal-04909478/document},
+  preview     = {culture_recherche.png}
 }
