@@ -7,7 +7,7 @@
   },
   "education": [
     {
-      "institution": "Équipes Algomus / MAGNET, CRIStAL, Université de Lille",
+      "institution": "Équipes <a class='uncolor_link' href='https://algomus.fr/'>Algomus</a> / <a class='uncolor_link' href='https://team.inria.fr/magnet'>MAGNET</a>, <a class='uncolor_link' href='https://www.cristal.univ-lille.fr/'>CRIStAL</a>, Université de Lille",
       "location": "Lille, France",
       "url": "https://www.cristal.univ-lille.fr/",
       "area": "Traitement du Langage Naturel Appliqué à la Musique Symbolique",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "institution": "IRCAM, Sorbonne Université",
+      "institution": "<a class='uncolor_link' href='https://www.ircam.fr/'>IRCAM</a>, Sorbonne Université",
       "location": "Paris, France",
       "url": "http://www.atiam.ircam.fr/",
       "area": "Acoustique, Traitement du Signal et Informatique Appliqués à la Musique",
@@ -70,7 +70,7 @@
   ],
   "work": [
     {
-      "name": "National Taiwan University",
+      "name": "<a class='uncolor_link' href='https://affige.github.io/lab.html'>Music & AI Lab</a>, National Taiwan University",
       "location": "Taipei, Taiwan",
       "position": "Visite de recherche",
       "url": "https://www.ntu.edu.tw",
@@ -80,7 +80,7 @@
       "logo": "ntu_logo.png",
       "highlights": [
         "Encadrant: <a href='https://affige.github.io/'>Yi-Hsuan Yang</a>",
-        "Publication en cours: <a href='https://arxiv.org/abs/2409.11753'>preprint</a>",
+        "Publication à IJCAI 2025 <a href='https://arxiv.org/abs/2409.11753'>(preprint)</a>",
         "Bourse de mobilité attribuée par la <a href='https://guide-aides.hautsdefrance.fr/dispositif997'>Région Hauts-de-France</a>"
       ]
     },
@@ -107,7 +107,7 @@
       "highlights": []
     },
     {
-      "name": "Équipe Algomus, CRIStAL, Université de Lille",
+      "name": "Équipe <a class='uncolor_link' href='https://algomus.fr/'>Algomus</a>, <a class='uncolor_link' href='https://www.cristal.univ-lille.fr/'>CRIStAL</a>, Université de Lille",
       "location": "Lille, France",
       "position": "Stage de recherche en analyse informatique de la musique",
       "url": "https://algomus.fr/",

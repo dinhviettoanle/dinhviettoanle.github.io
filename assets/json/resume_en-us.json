@@ -7,7 +7,7 @@
   },
   "education": [
     {
-      "institution": "Algomus / MAGNET teams, CRIStAL, Université de Lille",
+      "institution": "<a class='uncolor_link' href='https://algomus.fr/'>Algomus</a> / <a class='uncolor_link' href='https://team.inria.fr/magnet'>MAGNET</a> teams, <a class='uncolor_link' href='https://www.cristal.univ-lille.fr/'>CRIStAL</a>, Université de Lille",
       "location": "Lille, France",
       "url": "https://www.cristal.univ-lille.fr/",
       "area": "Natural Language Processing Applied to Symbolic Music",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "institution": "IRCAM, Sorbonne Université",
+      "institution": "<a class='uncolor_link' href='https://www.ircam.fr/'>IRCAM</a>, Sorbonne Université",
       "location": "Paris, France",
       "url": "http://www.atiam.ircam.fr/",
       "area": "Acoustics, Signal Processing, Computer Science Applied to Music",
@@ -70,7 +70,7 @@
   ],
   "work": [
     {
-      "name": "National Taiwan University",
+      "name": "<a class='uncolor_link' href='https://affige.github.io/lab.html'>Music & AI Lab</a>, National Taiwan University",
       "location": "Taipei, Taiwan",
       "position": "Visiting Research Student",
       "url": "https://www.ntu.edu.tw",
@@ -107,7 +107,7 @@
       "highlights": []
     },
     {
-      "name": "Algomus Team, CRIStAL, Université de Lille",
+      "name": "<a class='uncolor_link' href='https://algomus.fr/'>Algomus Team</a>, <a class='uncolor_link' href='https://www.cristal.univ-lille.fr/'>CRIStAL</a>, Université de Lille",
       "location": "Lille, France",
       "position": "Research Internship in Computational Music Analysis",
       "url": "https://algomus.fr/",

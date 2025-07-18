@@ -38,6 +38,13 @@ body.sticky-bottom-footer {
   }
 }
 
+.uncolor_link {
+  color: black;
+  &:hover {
+    color: black;
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
