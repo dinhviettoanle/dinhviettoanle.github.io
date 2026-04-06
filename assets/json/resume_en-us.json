@@ -10,7 +10,7 @@
       "institution": "<a class='uncolor_link' href='https://algomus.fr/'>Algomus</a> / <a class='uncolor_link' href='https://team.inria.fr/magnet'>MAGNET</a> teams, <a class='uncolor_link' href='https://www.cristal.univ-lille.fr/'>CRIStAL</a>, Université de Lille",
       "location": "Lille, France",
       "url": "https://www.cristal.univ-lille.fr/",
-      "area": "Natural Language Processing Applied to Symbolic Music",
+      "area": "<a href='https://theses.fr/2025ULILB029' class='uncolor_link'>Natural Language Processing Applied to Symbolic Music</a>",
       "studyType": "PhD in Computer Science",
       "startDate": "2022",
       "endDate": "2025",
@@ -20,7 +20,8 @@
       "courses": [
         "Scholarship ANR (French Research Agency): <a href='https://anr.fr/Projet-ANR-20-THIA-0014'>AI_PhD@Lille</a>",
         "Music Information Retrieval",
-        "Symbolic Music Analysis & Generation"
+        "Symbolic Music Analysis & Generation",
+        "Defense and manuscript: see <a href='/phd-defense/'>PhD</a>"
       ]
     },
     {
@@ -82,6 +83,21 @@
         "Supervisor: <a href='https://affige.github.io/'>Yi-Hsuan Yang</a>",
         "Publication at <a href='https://doi.org/10.24963/ijcai.2025/1125' >IJCAI 2025</a>",
         "Mobility scholarship granted by <a href='https://guide-aides.hautsdefrance.fr/dispositif997'>Région Hauts-de-France</a>"
+      ]
+    },
+    {
+      "name": "<a class='uncolor_link' href='https://amaai-lab.github.io/'>AMAAI Lab</a>, Singapore University of Technology and Design",
+      "location": "Singapore",
+      "position": "Visiting Research Student",
+      "url": "https://www.sutd.edu.sg/",
+      "startDate": "2023-10",
+      "endDate": "2023-10",
+      "summary": "Collaboration on a MIR survey",
+      "logo": "sutd_logo.png",
+      "highlights": [
+        "Supervisor: <a href='https://dorienherremans.com/'>Dorien Herremans</a>",
+        "Publication in <a href='https://doi.org/10.1145/3714457'>ACM Computing Surveys</a>",
+        "Mobility scholarship granted by <a href='https://www.campusfrance.org'>Campus France</a>"
       ]
     },
     {

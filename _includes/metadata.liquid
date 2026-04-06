@@ -76,6 +76,8 @@
       {{ page.date | date: '%Y' }} | {{ title }}
     {% elsif page.title == 'cv' %}
       CV | {{ title }}
+    {% elsif page.custom_title %}
+      {{ page.custom_title }} | {{ title }}
     {% else %}
       {{ page.title | capitalize }} | {{ title }}
     {% endif %}

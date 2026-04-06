@@ -2,6 +2,7 @@
 layout: page
 permalink: /phd-defense/
 title: PhD Defense
+custom_title: PhD defense
 description: Modeling Symbolic Music with Natural Language Processing Approaches
 nav: false
 _styles: .post-description {font-size:1.6rem;}
