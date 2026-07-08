@@ -34,7 +34,7 @@ Ultimately, this thesis defends that NLP methods first remains a toolbox from wh
 | [Ms. Cheng-Zhi Anna HUANG](https://czhuang.github.io/) | Massachusetts Institute of Technology | Reviewer |
 |_Examiners_|
 | [Ms. Chloé BRAUD](https://www.irit.fr/~Chloe.Braud/) | Institut de Recherche en Informatique de Toulouse | Examiner |
-| [M. Emmanouil BENETOS](https://www.eecs.qmul.ac.uk/~emmanouilb/) | Queen Mary University of London | Examiner |
+| [M. Emmanouil BENETOS](https://webspace.eecs.qmul.ac.uk/emmanouil.benetos/) | Queen Mary University of London | Examiner |
 | [M. Marius BILASCO](https://pro.univ-lille.fr/marius-bilasco) | Université de Lille | Examiner |
 | [M. Patrick BAS](https://pro.univ-lille.fr/patrick-bas) | Université de Lille | Examiner ; Jury President |
 | _Thesis advisors_ |

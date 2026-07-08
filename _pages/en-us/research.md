@@ -18,5 +18,7 @@ See <a href='/phd-defense/'>PhD defense</a>
 - Music Information Retrieval:
   - TISMIR _(Transactions of the International Society for Music Information Retrieval)_ -- 2026
   - JIM _(Journées d'informatique musicale)_ -- 2026
+  - IEEE ICME _International Conference on Multimedia & Expo_ -- 2025
+
 - Natural Language Processing:
   - ACL Rolling Review -- 2026
